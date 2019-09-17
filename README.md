@@ -1,2 +1,2 @@
 # redmi
-redmi repo
+redmi repo for git command demostration
